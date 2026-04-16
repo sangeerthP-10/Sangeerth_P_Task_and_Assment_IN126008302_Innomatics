@@ -1,0 +1,7 @@
+Data Analyst with 1 year experience.
+
+Skills:
+Python, Pandas, basic Machine Learning
+
+Tools:
+Excel, Matplotlib
